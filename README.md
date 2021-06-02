@@ -2,3 +2,6 @@
 This is a clone of Youtube home page designed using HTML and CSS.
 This is not 100% exactly same like the YouTube home page, but it is 95% the same which is good enough 
 when you are creating a clone with the sole purpose of learning.
+
+You can view the UI clone here->
+ https://archita2810.github.io/Youtube-UI-clone/
